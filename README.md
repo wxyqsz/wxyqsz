@@ -1,16 +1,43 @@
-## Hi there 👋
+# Bhoomika H.K.
 
-<!--
-**wxyqsz/wxyqsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering | Data Analysis & Machine Learning
 
-Here are some ideas to get you started:
+I’m a third-year Computer Science student building a focused portfolio in machine learning and data analysis. My work explores real-world datasets across domains like e-commerce, finance, and fashion. I value clean code, reproducibility, and clarity of insight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on deep learning and NLP projects. Open to remote internship opportunities in ML, data analytics, and applied AI research.
+
+---
+
+## Featured Projects
+
+**Sales Data Cleaner**  
+Retail sales dataset cleaning and visualization. Focus on nulls, data types, and trends.  
+[Pandas, Seaborn, Matplotlib] → [GitHub](#)
+
+**Netflix Titles EDA**  
+Analyzed genre trends, country content volume, and streaming patterns.  
+[Plotly, Pandas] → [GitHub](#)
+
+**Student Grade Predictor**  
+Regression model predicting grades from attendance, hours studied.  
+[scikit-learn, NumPy] → [GitHub](#)
+
+**Resume Classifier**  
+Text classification model to label resumes based on job category using NLP.  
+[Tf-IDF, Naive Bayes] → [GitHub](#)
+
+---
+
+## Skills
+
+- Python, NumPy, Pandas, Matplotlib, Seaborn
+- scikit-learn, Plotly, Streamlit, SQL (basic)
+- Git/GitHub, Jupyter, VSCode
+- Currently learning: Keras, Time Series Forecasting, NLP (SpaCy)
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/bhoomika-h-k-3bb154210/ 
+- Email: hkbhoomika08@example.com
