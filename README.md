@@ -33,7 +33,6 @@ Text classification model to label resumes based on job category using NLP.
 - Python, NumPy, Pandas, Matplotlib, Seaborn
 - scikit-learn, Plotly, Streamlit, SQL (basic)
 - Git/GitHub, Jupyter, VSCode
-- Currently learning: Keras, Time Series Forecasting, NLP (SpaCy)
 
 ---
 
